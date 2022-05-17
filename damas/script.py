@@ -1,0 +1,3 @@
+import vista
+
+vista.dibujar()
